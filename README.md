@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **discord.js and discord.py**
 
-- 📫 How to reach me **[Gmail](dbd.js333@gmail.com)** ~ **[YouTube](https://youtube.com/channel/UC9yRVadElzxSO3ZUywK6Yig)**
+- 📫 How to reach me **[YouTube](https://youtube.com/channel/UC9yRVadElzxSO3ZUywK6Yig)**
 
 - ⚡ Fun fact **I'm funny**
 
